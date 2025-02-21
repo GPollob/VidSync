@@ -1,1 +1,1 @@
-# VidSync
+// Placeholder for README.md
