@@ -63,3 +63,6 @@ AikoInfinity/
 │   └── userTracking/
 ├── LICENSE                  # Project license
 └── README.md                # Project documentation
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GPollob/VidSync)
+
